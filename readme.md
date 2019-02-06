@@ -1,4 +1,4 @@
-**Android应用开发》课程项目考核**
+*《Android应用开发》课程项目考核**
 
 **系统说明文档**
 
@@ -26,3 +26,4 @@
        	<img src="./img/7.png" width="25%" height="25%" />
        	<img src="./img/8.png" width="25%" height="25%" />
 	</center>
+
